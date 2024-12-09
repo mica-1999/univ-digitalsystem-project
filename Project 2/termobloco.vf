@@ -1,0 +1,66 @@
+////////////////////////////////////////////////////////////////////////////////
+// Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+////////////////////////////////////////////////////////////////////////////////
+//   ____  ____ 
+//  /   /\/   / 
+// /___/  \  /    Vendor: Xilinx 
+// \   \   \/     Version : 14.7
+//  \   \         Application : sch2hdl
+//  /   /         Filename : termobloco.vf
+// /___/   /\     Timestamp : 01/22/2022 18:37:57
+// \   \  /  \ 
+//  \___\/\___\ 
+//
+//Command: sch2hdl -intstyle ise -family spartan6 -verilog C:/Xilinx/projeto2_versaoestados/termobloco.vf -w C:/Xilinx/projeto2_versaoestados/termobloco.sch
+//Design Name: termobloco
+//Device: spartan6
+//Purpose:
+//    This verilog netlist is translated from an ECS schematic.It can be 
+//    synthesized and simulated, but it should not be modified. 
+//
+`timescale 1ns / 1ps
+
+module termobloco(contador_ligar, 
+                  estado0, 
+                  estado1, 
+                  estado2, 
+                  estado3, 
+                  segundos, 
+                  termobloco);
+
+    input contador_ligar;
+    input estado0;
+    input estado1;
+    input estado2;
+    input estado3;
+    input segundos;
+   output termobloco;
+   
+   wire XLXN_10;
+   wire XLXN_11;
+   wire XLXN_14;
+   wire XLXN_15;
+   wire XLXN_16;
+   
+   AND5  XLXI_2 (.I0(contador_ligar), 
+                .I1(XLXN_16), 
+                .I2(XLXN_15), 
+                .I3(XLXN_14), 
+                .I4(estado0), 
+                .O(XLXN_10));
+   AND5  XLXI_3 (.I0(XLXN_16), 
+                .I1(XLXN_15), 
+                .I2(estado0), 
+                .I3(estado1), 
+                .I4(segundos), 
+                .O(XLXN_11));
+   OR2  XLXI_4 (.I0(XLXN_11), 
+               .I1(XLXN_10), 
+               .O(termobloco));
+   INV  XLXI_5 (.I(estado3), 
+               .O(XLXN_16));
+   INV  XLXI_6 (.I(estado2), 
+               .O(XLXN_15));
+   INV  XLXI_7 (.I(estado1), 
+               .O(XLXN_14));
+endmodule

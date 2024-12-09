@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family artix7 -refsym codigojunto {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigojunto.sch} {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigojunto.sym} 

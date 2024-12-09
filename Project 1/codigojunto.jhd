@@ -1,0 +1,5 @@
+MODULE codigojunto
+	SUBMODULE circuito
+		INSTANCE XLXI_1
+	SUBMODULE verilog_projecto
+		INSTANCE XLXI_6

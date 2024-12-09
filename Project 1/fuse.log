@@ -1,0 +1,40 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigojunto_codigojunto_sch_tb_isim_beh.exe -prj C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigojunto_codigojunto_sch_tb_beh.prj work.codigojunto_codigojunto_sch_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" into library work
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 50: Redeclaration of ansi port Candidato1 is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 51: Redeclaration of ansi port contagem_A is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 52: Redeclaration of ansi port contagem_B is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 53: Redeclaration of ansi port contagem_C is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 54: Redeclaration of ansi port valor_A is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 55: Redeclaration of ansi port valor_B is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 56: Redeclaration of ansi port valor_C is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 57: Redeclaration of ansi port valor_D is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 58: Redeclaration of ansi port valor_E is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 59: Redeclaration of ansi port valor_F is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 60: Redeclaration of ansi port valor_G is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 61: Redeclaration of ansi port valor_H is not allowed
+WARNING:HDLCompiler:751 - "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 62: Redeclaration of ansi port valor_I is not allowed
+Analyzing Verilog file "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/circuito.vf" into library work
+Analyzing Verilog file "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigojunto.vf" into library work
+Analyzing Verilog file "C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/simula.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module AND9_HXILINX_codigojunto
+Compiling module OR4
+Compiling module INV
+Compiling module OR5
+Compiling module circuito_MUSER_codigojunto
+Compiling module verilog_projecto
+Compiling module codigojunto
+Compiling module codigojunto_codigojunto_sch_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 Verilog Units
+Built simulation executable C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigojunto_codigojunto_sch_tb_isim_beh.exe
+Fuse Memory Usage: 29576 KB
+Fuse CPU Usage: 312 ms

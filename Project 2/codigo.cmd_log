@@ -1,0 +1,14 @@
+vhdtdtfi -lib work C:/Xilinx/projeto2_versaoestados/codigo.v -lang verilog -prj projeto2_versaoestados -o codigo.spl -module codigo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 codigo.spl C:/Xilinx/projeto2_versaoestados/codigo.sym 
+vhdtdtfi -lib work C:/Xilinx/projeto2_versaoestados/codigo.v -lang verilog -prj projeto2_versaoestados -o codigo.spl -module codigo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 codigo.spl C:/Xilinx/projeto2_versaoestados/codigo.sym 
+vhdtdtfi -lib work C:/Xilinx/projeto2_versaoestados/codigo.v -lang verilog -prj projeto2_versaoestados -o codigo.spl -module codigo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 codigo.spl C:/Xilinx/projeto2_versaoestados/codigo.sym 
+vhdtdtfi -lib work C:/Xilinx/projeto2_versaoestados/codigo.v -lang verilog -prj projeto2_versaoestados -o codigo.spl -module codigo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 codigo.spl C:/Xilinx/projeto2_versaoestados/codigo.sym 
+vhdtdtfi -lib work C:/Xilinx/projeto2_versaoestados/codigo.v -lang verilog -prj projeto2_versaoestados -o codigo.spl -module codigo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 codigo.spl C:/Xilinx/projeto2_versaoestados/codigo.sym 
+vhdtdtfi -lib work C:/Xilinx/projeto2_versaoestados/codigo.v -lang verilog -prj projeto2_versaoestados -o codigo.spl -module codigo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w codigo.spl C:/Xilinx/projeto2_versaoestados/codigo.sym 
+vhdtdtfi -lib work C:/Xilinx/projeto2_versaoestados/codigo.v -lang verilog -prj projeto2_versaoestados -o codigo.spl -module codigo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w codigo.spl C:/Xilinx/projeto2_versaoestados/codigo.sym 

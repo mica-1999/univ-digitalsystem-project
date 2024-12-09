@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/projeto2_versaoestados/circuito_eletrico.xst" -ofn "C:/Xilinx/projeto2_versaoestados/circuito_eletrico.syr" 

@@ -1,0 +1,16 @@
+[Inputs]
+power
+start
+refill
+CLK
+=codigo[6:0]=
+=selecao[1:0]=
+[Outputs]
+bomba
+termobloco
+=reservatorio[3:0]=
+=estado[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel codigo
+

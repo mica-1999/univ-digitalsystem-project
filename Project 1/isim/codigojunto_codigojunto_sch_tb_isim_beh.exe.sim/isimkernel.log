@@ -1,0 +1,29 @@
+Command line:
+   codigojunto_codigojunto_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57342
+
+Fri Nov 26 16:41:50 2021
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5150.79 Meg
+
+ Total Signals          : 206
+ Total Nets             : 94
+ Total Signal Drivers   : 51
+ Total Blocks           : 25
+ Total Primitive Blocks : 22
+ Total Processes        : 59
+ Total Traceable Variables  : 44
+ Total Scalar Nets and Variables : 235
+Total Line Count : 149
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5150.79 Meg
+
+Fri Nov 26 16:41:54 2021
+

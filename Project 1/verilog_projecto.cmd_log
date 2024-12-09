@@ -1,0 +1,32 @@
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 
+vhdtdtfi -lib work {C:/Xilinx/CIRCUITO-TESTE com o verilog/codigo_verilog.v} -lang verilog -prj CIRCUITO-TESTE -o verilog_projecto.spl -module verilog_projecto -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 verilog_projecto.spl {C:/Xilinx/CIRCUITO-TESTE com o verilog/verilog_projecto.sym} 

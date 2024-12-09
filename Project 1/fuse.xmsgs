@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 50: Redeclaration of ansi port <arg fmt="%s" index="1">Candidato1</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 51: Redeclaration of ansi port <arg fmt="%s" index="1">contagem_A</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 52: Redeclaration of ansi port <arg fmt="%s" index="1">contagem_B</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 53: Redeclaration of ansi port <arg fmt="%s" index="1">contagem_C</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 54: Redeclaration of ansi port <arg fmt="%s" index="1">valor_A</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 55: Redeclaration of ansi port <arg fmt="%s" index="1">valor_B</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 56: Redeclaration of ansi port <arg fmt="%s" index="1">valor_C</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 57: Redeclaration of ansi port <arg fmt="%s" index="1">valor_D</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 58: Redeclaration of ansi port <arg fmt="%s" index="1">valor_E</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 59: Redeclaration of ansi port <arg fmt="%s" index="1">valor_F</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 60: Redeclaration of ansi port <arg fmt="%s" index="1">valor_G</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 61: Redeclaration of ansi port <arg fmt="%s" index="1">valor_H</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/wrt/Downloads/CIRCUITO-TESTE com o verilog (1)/CIRCUITO-TESTE com o verilog/codigo_verilog.v" Line 62: Redeclaration of ansi port <arg fmt="%s" index="1">valor_I</arg> is not allowed
+</msg>
+
+</messages>
+
